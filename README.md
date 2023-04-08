@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://fnfn9947.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/코딩노예지망생-000000?style=social&logo=tistory&logoColor=000000"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnfn9947)](https://solved.ac/fnfn9947)
