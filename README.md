@@ -1,4 +1,4 @@
-###  방가방가👋
+###  호구조사👋
 
 <!--
 **Slaveplus/Slaveplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnfn9947)](https://solved.ac/fnfn9947)
+<div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnfn9947)](https://solved.ac/fnfn9947)</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slaveplus&langs_count=8)](https://github.com/Slaveplus/github-readme-stats)
 
