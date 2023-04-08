@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://fnfn9947.tistory.com" target="_blank"><img src="https://img.shields.io/badge/코딩노예지망생-배경색?style=for-the-badge&logo=000000&logoColor=000000"/></a>
-https://img.shields.io/badge/https%3A%2F%2Ffnfn9947.tistory.com%2F-%EC%BD%94%EB%94%A9%EB%85%B8%EC%98%88%EC%A7%80%EB%A7%9D%EC%83%9D-lightgrey
+<a href="https://fnfn9947.tistory.com" target="_blank"><img src="https://img.shields.io/bad![tistory](https://user-images.githubusercontent.com/54345113/230722261-f169664d-4e88-4d7d-bad8-9a88354ec546.svg)
+ge/코딩노예지망생-배경색?style=for-the-badge&logo=000000&logoColor=000000"/></a>
