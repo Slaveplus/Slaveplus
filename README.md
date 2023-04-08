@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnfn9947)](https://solved.ac/fnfn9947)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slaveplus&langs_count=8)](https://github.com/Slaveplus/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnfn9947)](https://solved.ac/fnfn9947) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slaveplus&langs_count=8)](https://github.com/Slaveplus/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slaveplus&show_icons=true&theme=dark)
 
